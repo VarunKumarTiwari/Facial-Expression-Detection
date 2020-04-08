@@ -11,10 +11,10 @@ import os
 ##Make changes to these lines for getting the desired results.
 
 ## DIRECTORY of the images
-directory = "H:/Facial-Expression-Detection/data/Sad/"
+directory = "H:/Facial-Expression-Detection/data/Surprised/"
 
 ## directory where the images to be saved:
-f_directory = "H:/Facial-Expression-Detection/images/Sad/"
+f_directory = "H:/Facial-Expression-Detection/images/Surprised/"
 
 ################################################################################
             
